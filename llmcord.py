@@ -90,7 +90,7 @@ async def on_message(new_msg):
             (new_msg.channel.type != discord.ChannelType.private and bot.user not in new_msg.mentions) or
             (ALLOWED_CHANNEL_IDS and not any(id in ALLOWED_CHANNEL_IDS for id in (new_msg.channel.id, getattr(new_msg.channel, "parent_id", None)))) or
             (ALLOWED_ROLE_IDS and (new_msg.channel.type == discord.ChannelType.private or not any(role.id in ALLOWED_ROLE_IDS for role in new_msg.author.roles))) or
-            (new_msg.author.bot and new_msg.author.id != 1126654150772523038)
+            (new_msg.author.bot and new_msg.author.id != 1280560130097676338)
     ):
         return
 
