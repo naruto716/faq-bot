@@ -1,3 +1,4 @@
+Edited for Personal FAQ uses
 <h1 align="center">
   llmcord.py
 </h1>
@@ -82,11 +83,3 @@ Before you start, install Python and clone this git repo.
 
 - PRs are welcome :)
 
-## Star History
-<a href="https://star-history.com/#jakobdylanc/discord-llm-chatbot&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=jakobdylanc/discord-llm-chatbot&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=jakobdylanc/discord-llm-chatbot&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=jakobdylanc/discord-llm-chatbot&type=Date" />
-  </picture>
-</a>
